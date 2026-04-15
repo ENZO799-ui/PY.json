@@ -1,10 +1,13 @@
-[
 {
-    "type": "category",
-    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "🇵🇾TIGO SPORTS",
-    "items": [
-
+    "name": "PARAGUAY - TV PY by HL",
+    "author": "ENZO799-UI",
+    "image": "https://i.ibb.co/k6cgFLwt/paraguay.png",
+    "url": "https://raw.githubusercontent.com/ENZO799-ui/PY.json/refs/heads/main/PY.json",
+    "groups": [
+        {
+{            "name": "🇵🇾TIGO SPORTS🇵🇾",
+            "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+            "stations": [
 {
         "name": "EVENTO 1",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
@@ -45,10 +48,9 @@
 ]
    },
 {
-  "type": "category",
+  "name": "🇵🇾PARAGUAY",
   "image": "https://i.ibb.co/k6cgFLwt/paraguay.png",
-  "title": "🇵🇾PARAGUAY",
-  "items": [
+  "stations": [
      {
         "name": "MBOKAYATY TV",
         "url": "https://live.enhdtv.com:8081/8174/index.m3u8",
@@ -270,10 +272,9 @@
 ]
  },
 {
-        "type": "category",
-     "image": "https://i.ibb.co/9mkcw2dN/espn-seeklogo.png",
-    "title": "⚽ ESPN ⚽",
-    "items": [
+   "title": "⚽ ESPN ⚽",
+   "image": "https://i.ibb.co/9mkcw2dN/espn-seeklogo.png",
+   "stations": [
 {
         "name": "ESPN",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8",
@@ -348,11 +349,10 @@
 ]
 
 },
-    {
-        "type": "category",
-    "image": "https://i.ibb.co/zbWxZ95/fs1.png",
+    {   
     "title": "⚽ FOX SPORTS ⚽",
-    "items": [
+    "image": "https://i.ibb.co/zbWxZ95/fs1.png",
+    "stations": [
             {
         "name": "FOX SPORTS",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8",
@@ -376,10 +376,9 @@
   ]
 },
     {
-        "type": "category",
+    "title": "⚽TyC/TNT/DIRECTV SPORTS⚽"
      "image": "https://i.ibb.co/60QvHcnr/R-2.png",
-    "title": "⚽TyC/TNT/DIRECTV SPORTS⚽",
-    "items": [
+    "stations": [
            {
             "name": "TYC SPORTS",
             "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90.playlist.m3u8",
@@ -441,10 +440,9 @@
 ]
 },
 {
-        "type": "category",
-    "image": "https://i.ibb.co/NKs6v0v/sportv.png",
     "title": "⚽ESPORTE BR⚽",
-    "items": [
+    "image": "https://i.ibb.co/NKs6v0v/sportv.png",
+    "stations": [
              {
         "name": "SporTV",
         "url": "https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
@@ -514,10 +512,9 @@
     ]
 },
     {
-  "type": "category",
-  "image": "https://cdn-icons-png.flaticon.com/512/857/857418.png",
   "title": "OTROS DEPORTES",
-  "items": [
+  "image": "https://cdn-icons-png.flaticon.com/512/857/857418.png",
+  "stations": [
              {
         "name": "PLUTO DEPORTES",
         "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
