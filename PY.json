@@ -1,0 +1,318 @@
+[
+{
+    "type": "category",
+    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+    "title": "🇵🇾TIGO SPORTS",
+    "items": [
+
+{
+        "name": "EVENTO 1",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.postimg.cc/Y2D0DfR1/tigo-sports-2.png"
+      },
+      {
+        "name": "EVENTOS 2",
+        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wbw3yya7vk1f3ivn650ug/tigo4.txt?rlkey=ozbktawdgz3ir2ydtm4qez3om&st=8nrn8w9m&dl=0",
+        "icono": "https://i.postimg.cc/vZ2db31z/tigo-sports-mas.png"
+      },
+ {
+   
+        "name": "TIGO EVENTOS",
+        "url": "https://live.enhdtv.com:8081/8160/index.m3u8",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
+    },
+{
+        "name": "TIGO EVENTOS 2",
+        "url": "https://live.enhdtv.com:19360/8226/8226.m3u8",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
+    },
+{
+        "name": "TIGO WEB 1",
+        "type": "webview",
+        "url": "https://killermina.github.io/mi-player-html/",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
+    },
+{
+        "name": "TIGO WEB 2",
+        "type": "webview",
+        "url": "https://killermina.github.io/player2/",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
+    }          
+]
+   },
+{
+  "type": "category",
+  "image": "https://i.ibb.co/k6cgFLwt/paraguay.png",
+  "title": "🇵🇾PARAGUAY",
+  "items": [
+     {
+        "name": "MBOKAYATY TV",
+        "url": "https://live.enhdtv.com:8081/8174/index.m3u8",
+        "icono": "https://imgs.search.brave.com/0elrILScO2i23kU0vVp0bieL9ZyOPXdeL9cOjtW0oq8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzEwL1BhcmFndWF5/X1RWX2xvZ28ucG5n"
+      },
+       {
+        "name": "VISIÓN TV VILLARRICA",
+        "url": "https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion",
+        "icono": "https://i.postimg.cc/fyVSj4Sp/canal-vision-tv.png"
+      },
+{
+        "name": "CAAZAPA TV",
+        "url": "https://live.enhdtv.com:8081/8108/index.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/41/Ycu%C3%A1_Bola%C3%B1os_%28Caazap%C3%A1%29.jpg"
+      },
+    {
+      "name": "GEN TV",
+      "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
+      "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1"
+    },
+{
+      "name": "TELEFUTURO",
+       "url": "https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
+      "icono": "https://i.postimg.cc/g0fZGjsc/telefuturo.png"
+    },
+{
+      "name": "MONUMENTAL",
+       "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+      "icono": "https://i.imgur.com/kEcOYML.png"
+    },
+{
+      "name": "RED DIGITAL",
+       "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+      "icono": "https://i.imgur.com/3jj0MQP.jpg"
+    },
+{
+      "name": "C9N",
+      "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
+      "icono": "https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png"
+    },
+{
+      "name": "C9N OPC 2",
+      "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8",
+      "icono": "https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png"
+    },
+{
+        "name": "SNT",
+        "url": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8",
+        "icono": "https://i.postimg.cc/L5h8p4C4/snt.png"
+      },
+{
+        "name": "PARAVISIÓN",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8",
+        "icono": "https://i.imgur.com/yd9Dw2G.png"
+      },
+{
+        "name": "PARAVISIÓN MPD",
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd?*",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
+        "icono": "https://i.postimg.cc/rmDCV75c/paravision.png"
+      },
+{
+        "name": "LA TELE HD",
+        "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://i.postimg.cc/qR3vwG84/latele-py.png"
+      },
+    
+{
+        "name": "TRECE",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8",
+        "icono": "https://i.postimg.cc/TPKH8zGj/trecepy.png"
+      },
+{
+        "name": "ABC",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
+        "icono": "https://i.postimg.cc/fyjHLrkr/abctv.png"
+      },
+{
+      "name": "ABC MPD",
+      "url": "https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd?*",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c0bef75733b2645452432bd4e76f36f5&key=ea16243367d814c1d53f1eaf21f005ff",
+      "icono": "https://i.postimg.cc/fyjHLrkr/abctv.png"
+    },
+{
+      "name": "MEGA TV PY",
+      "url": "https://www.desde-paraguay.com/mega.m3u8",
+      "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
+    },
+{
+      "name": "PARAGUAY TV",
+      "url": "https://stream.paraguaytv.gov.py/memfs/400fcc83-8f04-4497-8011-150847d44702.m3u8",
+      "icono": "https://i.ibb.co/pB0cvBG1/py-Tv-web-2.png"
+    },
+{
+      "name": "ÑANDUTI TV",
+      "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8",
+      "icono": "https://i.ibb.co/r2DnTpxP/vnIkhRO.png"
+    },
+{
+      "name": "TV CAMARA MPD",
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd?*",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9357704ade444dc3b23be89865af2f58&key=3d03e0a79d8f7b7aa2897c3d24bd4b6a",
+      "icono": "http://imgfz.com/i/QTcoH5d.jpeg"
+    },
+{
+      "name": "SUR TV MPD",
+      "url": "https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd?*",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=988ae4e8408981609ded9f8b23bbf79d&key=b867c66791bcad67ee142be1e21c2577",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png"
+    },
+{
+        "name": "UNIVERSO TV",
+        "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_int_alta/index.m3u8?admin=nacion",
+        "icono": "https://i.postimg.cc/7Pd01mmh/universo-970.png"
+      },
+{
+        "name": "E40",
+        "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://i.ibb.co/jz9XkvP/e40.png"
+      },
+{
+        "name": "FARRA TV",
+        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
+        "icono": "https://i.imgur.com/bXWzstH.png"
+      },
+{
+        "name": "POPU TV",
+        "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion",
+        "icono": "https://i.postimg.cc/xT2vp2TK/popu-tv-2.png"
+      },
+{
+      "name": "5 DIAS MPD",
+      "url": "https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd?*",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=746091c502edcf1e9d003535ce01f3e4&key=29081b5f92d1a37c88fbbd0ece55c839",
+      "icono": "https://i.ibb.co/cXhyvZGC/R-1.png"
+    },
+{
+        "name": "NPY",
+        "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://i.postimg.cc/pVF8Tf5f/npy.png"
+      },
+{
+        "name": "UNICANAL",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
+        "icono": "https://i.postimg.cc/DzRp7xy9/unicanal.png"
+      },
+{
+        "name": "UNICANAL MPD",
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?*",
+        "icono": "https://i.postimg.cc/DzRp7xy9/unicanal.png",
+          "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
+      },
+{
+      "name": "UNION TV",
+      "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+      "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png"
+    },
+{
+        "name": "HEI NOW",
+        "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+        "icono": "https://i.postimg.cc/fLShcZf6/hei.png"
+      },
+{
+        "name": "MOTOR SUR MEDIA",
+        "url": "https://video.hostingcaaguazu.com:19360/motorsurtv/motorsurtv.m3u8",
+        "icono": "https://i.postimg.cc/q761GQm6/motor-sur-media.png"
+      },
+{
+        "name": "RTV PARANÁ",
+        "url": "https://video.hostingcaaguazu.com:19360/rtvhd/rtvhd.m3u8",
+        "icono": "https://i.postimg.cc/gcHT1f58/rtv.png"
+      },
+{
+        "name": "CÁRITAS TV",
+        "url": "https://rds3gen.desdeparaguay.net/caritastv/caritastv/chunklist.m3u8",
+        "icono": "https://i.postimg.cc/P5nLVXQ2/caritas-tv.png"
+      },
+{
+        "name": "ÑANDEJARA ÑE´E TV",
+        "url": "https://rds3gen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/VLn9kH7Z/nande-jara.png"
+      },
+{
+        "name": "RCC TV CHAQUEÑA",
+        "url": "https://rds3gen.desdeparaguay.net/rcctv/rcctv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/Y2z94C4V/rcc.png"
+      },
+{
+        "name": "TV CHAQUEÑA",
+        "url": "https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8",
+        "icono": "https://i.postimg.cc/wTZxC8bG/tv-chaquena.png"
+      },
+{
+        "name": "TVA CORONEL OVIEDO",
+        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+        "icono": "https://i.postimg.cc/LX4WNDTj/tva.png"
+      },
+{
+        "name": "MI TV ITAPÚA",
+        "url": "https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua",
+        "icono": "https://i.ibb.co/6RqpxYR/mitv.png"
+      },
+{
+        "name": "GOTV",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+        "icono": "https://i.ibb.co/jkvYVyz/Captura.png"
+      },
+ {
+        "name": "BRUNO MASI TV",
+        "url": "https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+        "icono": "https://i.ibb.co/pK5SNMT/bruno-masi-tv.png"
+      }
+]
+ },
+{
+        "type": "category",
+     "image": "https://i.ibb.co/9mkcw2dN/espn-seeklogo.png",
+    "title": "⚽ ESPN",
+    "items": [
+{
+        "name": "ESPN",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8",
+        "icono": "https://i.ibb.co/s37NZCT/espn-1B.png"
+      },
+{
+        "name": "ESPN 2",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8",
+         "icono": "https://i.ibb.co/RCMYFsv/espn-2B.png"
+      },
+{
+        "name": "ESPN 3",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8",
+        "icono": "https://i.ibb.co/TLcGvdv/espn-3B.png"
+      },
+{
+        "name": "ESPN 4",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8",
+        "icono": "https://i.ibb.co/pJK6xQ0/espn-4B.png",
+      },
+{
+        "name": "ESPN 5",
+       "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8",
+        "icono": "https://i.ibb.co/6bvjxGP/espn-5B.png"
+
+      },
+{
+        "name": "ESPN 6",
+       "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8",
+        "icono": "https://i.ibb.co/CsyhPz4/espn-6B.png",
+      },
+{
+        "name": "ESPN 7",
+       "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8",
+        "icono": "https://i.ibb.co/LSQFzkw/espn-7B.png"
+      },
+{
+        "name": "ESPN PREMIUM",
+        "url": "http://201.217.246.42:44310/Live/9db41d0a55d27fcbda12e66f30035704/local-02_720.m3u8",
+        "icono": "https://i.ibb.co/LrNsJsP/espnpremium.png",
+  },
+]
